@@ -1,0 +1,21 @@
+{
+  "name": "webpack-ex",
+  "description": "practice",
+  "main": "app/main.js",
+  "authors": [
+    "Lexamo"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.0.1"
+  }
+}

@@ -1,0 +1,5 @@
+npm-debug.log
+src/node_modules/*
+src/bower_components/*
+src/build/bundle.js
+src/build/vendors.js
